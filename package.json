@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/rgarro/chavala-app/issues"
   },
-  "homepage": "https://github.com/rgarro/chavala-app#readme"
+  "homepage": "https://github.com/rgarro/chavala-app#readme",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
 }
