@@ -1,0 +1,19 @@
+{
+  "name": "chavala-app",
+  "version": "1.0.0",
+  "description": "expressjs rest api for a firestore backend with some html forms",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rgarro/chavala-app.git"
+  },
+  "author": "Rolando <rgarro@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rgarro/chavala-app/issues"
+  },
+  "homepage": "https://github.com/rgarro/chavala-app#readme"
+}
